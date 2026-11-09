@@ -98,6 +98,10 @@ helm install openartifact oci://ghcr.io/openartifact/charts/openartifact \
 
 More: [installation](docs/getting-started/installation.md), [configuration](docs/getting-started/configuration.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/OpenArtifact/)
+
 ## Documentation
 
 The full page index is [docs/README.md](docs/README.md). Start here:
